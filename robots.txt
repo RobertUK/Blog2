@@ -1,1 +1,1 @@
-Sitemap: https://itthings.github.io/Blog/sitemap.xml
+Sitemap: https://itthings.github.io/sitemap.xml
